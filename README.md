@@ -1,0 +1,1 @@
+Before running ` docker-compose up -d `, create a folder named ` sideload ` in ` /opt/services ` and put the contents of https://github.com/Requarks/wiki-localization in that folder. These are the localization files for Wiki.js.
